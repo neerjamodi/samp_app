@@ -16,7 +16,10 @@ group :test do
  gem 'autotest', '4.4.4'
  gem 'redgreen', '1.2.2'
  gem 'test-unit', '2.1.1'
+ gem 'spork', '0.8.4'
+ gem 'webrat', '0.7.2'
 end
+gem 'jquery-rails'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do

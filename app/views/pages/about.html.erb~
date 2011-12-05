@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<HTML>
+<head>
+<title>Ruby on Rails Tutorial Sample App | About</title>
+</head>
+<body>
+  <h1>About us</h1>
+  <p>This is the home page <a href ="http://railstutorial.org/"> Ruby on Rails Tutorial</a> sample application.</p>
+
+</HTML>
+
+
